@@ -1,6 +1,6 @@
 {
-  "versionCode": "18",
-  "versionName": "2.4.0",
+  "versionCode": "19",
+  "versionName": "2.5.0",
   "apkUrl": "https://raw.githubusercontent.com/moek72/moek-iptv-updates/main/moena/app.apk",
-  "notes": "Zenderlijst per land, voorbeeldweergave, OK-menu tijdens kijken, favorieten met ster, films en series apart, en updates die vanaf nu vanzelf binnenkomen."
+  "notes": "Zappen gaat weer de goede kant op, favorieten en landen zijn nu echte knoppen, het logo staat in de informatiebalk en toont of er gebufferd wordt, en je kunt kiezen hoe groot alles op het scherm staat."
 }

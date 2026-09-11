@@ -1,6 +1,6 @@
 {
-  "versionCode": "19",
-  "versionName": "2.5.0",
+  "versionCode": "20",
+  "versionName": "2.6.0",
   "apkUrl": "https://raw.githubusercontent.com/moek72/moek-iptv-updates/main/moek/app.apk",
-  "notes": "Zappen gaat weer de goede kant op, favorieten en landen zijn nu echte knoppen, het logo staat in de informatiebalk en toont of er gebufferd wordt, en je kunt kiezen hoe groot alles op het scherm staat."
+  "notes": "De ster staat nu naast de zender, dus pijl-rechts volstaat om favoriet te maken. Elk land klapt open in zijn eigen groepen (4K, sport, enzovoort), elk met een eigen schuifje. Nieuwe knop om te controleren welke zenders het doen, een buffermeter in de informatiebalk en Cache legen bij de instellingen."
 }

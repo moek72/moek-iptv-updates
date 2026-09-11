@@ -1,6 +1,6 @@
 {
-  "versionCode": "20",
-  "versionName": "2.6.0",
+  "versionCode": "21",
+  "versionName": "2.7.0",
   "apkUrl": "https://raw.githubusercontent.com/moek72/moek-iptv-updates/main/moek/app.apk",
-  "notes": "De ster staat nu naast de zender, dus pijl-rechts volstaat om favoriet te maken. Elk land klapt open in zijn eigen groepen (4K, sport, enzovoort), elk met een eigen schuifje. Nieuwe knop om te controleren welke zenders het doen, een buffermeter in de informatiebalk en Cache legen bij de instellingen."
+  "notes": "Nieuw scherm Kies je zenders: land, groep en zender naast elkaar, en OK zet een rij gewoon aan of uit. Alles uit in één druk. De zijbalk is breder en namen worden niet meer afgekapt."
 }

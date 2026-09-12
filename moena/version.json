@@ -1,6 +1,6 @@
 {
-  "versionCode": "21",
-  "versionName": "2.7.0",
+  "versionCode": "22",
+  "versionName": "2.8.0",
   "apkUrl": "https://raw.githubusercontent.com/moek72/moek-iptv-updates/main/moena/app.apk",
-  "notes": "Nieuw scherm Kies je zenders: land, groep en zender naast elkaar, en OK zet een rij gewoon aan of uit. Zappen gaat de goede kant op, favorieten met pijl-rechts, een knop om te controleren welke zenders het doen, buffermeter in de informatiebalk en Cache legen bij de instellingen."
+  "notes": "Je eigen logo staat nu overal: op het startscherm van de tv, als app-icoon, bij het opstarten en in de informatiebalk tijdens het kijken."
 }

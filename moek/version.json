@@ -1,6 +1,6 @@
 {
-  "versionCode": "21",
-  "versionName": "2.7.0",
+  "versionCode": "22",
+  "versionName": "2.8.0",
   "apkUrl": "https://raw.githubusercontent.com/moek72/moek-iptv-updates/main/moek/app.apk",
-  "notes": "Nieuw scherm Kies je zenders: land, groep en zender naast elkaar, en OK zet een rij gewoon aan of uit. Alles uit in één druk. De zijbalk is breder en namen worden niet meer afgekapt."
+  "notes": "Bij het opstarten verschijnt nu het app-merkje in plaats van een leeg scherm."
 }

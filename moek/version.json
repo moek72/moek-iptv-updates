@@ -1,6 +1,6 @@
 {
-  "versionCode": "22",
-  "versionName": "2.8.0",
+  "versionCode": "23",
+  "versionName": "2.9.0",
   "apkUrl": "https://raw.githubusercontent.com/moek72/moek-iptv-updates/main/moek/app.apk",
-  "notes": "Bij het opstarten verschijnt nu het app-merkje in plaats van een leeg scherm."
+  "notes": "Je eigen logo staat nu overal: startscherm, app-icoon, bij het opstarten en in de informatiebalk. En een favoriet kun je er nu ook weer afhalen."
 }

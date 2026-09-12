@@ -1,6 +1,6 @@
 {
-  "versionCode": "22",
-  "versionName": "2.8.0",
+  "versionCode": "23",
+  "versionName": "2.9.0",
   "apkUrl": "https://raw.githubusercontent.com/moek72/moek-iptv-updates/main/moena/app.apk",
-  "notes": "Je eigen logo staat nu overal: op het startscherm van de tv, als app-icoon, bij het opstarten en in de informatiebalk tijdens het kijken."
+  "notes": "Een favoriet kun je er nu ook weer afhalen op het favorietenscherm."
 }

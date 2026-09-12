@@ -1,6 +1,6 @@
 {
-  "versionCode": "19",
-  "versionName": "2.5.0",
+  "versionCode": "21",
+  "versionName": "2.7.0",
   "apkUrl": "https://raw.githubusercontent.com/moek72/moek-iptv-updates/main/moena/app.apk",
-  "notes": "Zappen gaat weer de goede kant op, favorieten en landen zijn nu echte knoppen, het logo staat in de informatiebalk en toont of er gebufferd wordt, en je kunt kiezen hoe groot alles op het scherm staat."
+  "notes": "Nieuw scherm Kies je zenders: land, groep en zender naast elkaar, en OK zet een rij gewoon aan of uit. Zappen gaat de goede kant op, favorieten met pijl-rechts, een knop om te controleren welke zenders het doen, buffermeter in de informatiebalk en Cache legen bij de instellingen."
 }
